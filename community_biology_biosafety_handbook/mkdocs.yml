@@ -2,6 +2,7 @@ site_name: Community Biology Biosafety Handbook
 theme:
     name: material
     logo: 'img/logo.png'
+    favicon: 'img/fav.webp'
 #     highlightjs: true
 #     hljs_languages:
 #         - yaml

@@ -4,3 +4,12 @@
     height: 1.2rem;
     fill: currentColor; 
 }
+
+.md-header{
+    background-color: white;
+    color: rgba(0,0,0,0.54);
+}
+
+.md-search__form :hover{
+    background-color: rgba(0,0,0,0.54);
+}
