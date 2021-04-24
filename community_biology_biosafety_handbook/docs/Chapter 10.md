@@ -1,4 +1,4 @@
-# Acquiring, Shipping and Transporting Materials
+# 10. Acquiring, Shipping and Transporting Materials
 
 Formal and informal material transfers are essential for research and can be made in different ways: company to community lab, community lab to community lab, university to community lab, individual researcher to individual researcher, and many more configurations.
 

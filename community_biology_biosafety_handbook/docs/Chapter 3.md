@@ -1,4 +1,4 @@
-# Basics and What Members should Know
+# 3. Basics and What Members should Know
 
 ## **Introduction**
 

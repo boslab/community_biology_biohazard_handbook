@@ -1,4 +1,4 @@
-# Laboratory Management Practices
+# 1. Laboratory Management Practices
 
 ## Organizational Structure and Safety Officer Roles
 

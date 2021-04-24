@@ -1,4 +1,4 @@
-# Laboratory Infrastructure and Design {#2-laboratory-management-practices}
+# 2. Laboratory Infrastructure and Design {#2-laboratory-management-practices}
 
 ## Finding a Lab Location and Getting Started
 

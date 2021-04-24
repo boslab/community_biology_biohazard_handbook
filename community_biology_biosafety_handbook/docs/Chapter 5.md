@@ -1,4 +1,4 @@
-# Emergency Procedures
+# 5. Emergency Procedures
 ## Introduction
 
 We recommend developing an emergency plan for different scenarios that might occur at your lab. These might include injuries, fires, chemical or biological spills, equipment failures, and natural disasters. The success of your plan depends on everybody knowing the plan, reacting quickly to an incident and putting the plan into action. The emergency plan, as well as the roles and responsibilities, should be communicated clearly to all members and users of the lab. Sample plans can be found from [Biomakespace](https://docs.google.com/document/d/1inP4DSocdOEsYaajojMCa6Mk8_OVhfQPAjcoKV1rIck/edit).

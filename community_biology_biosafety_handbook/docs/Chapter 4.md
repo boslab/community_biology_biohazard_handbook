@@ -1,4 +1,4 @@
-# Codes of Conduct, Human Subjects, and Data Protection
+# 4. Codes of Conduct, Human Subjects, and Data Protection
 ## Codes of Conduct
 
 From its earliest beginnings the DIYbio community has incorporated safety, security, and responsible conduct into its ethical principles. The first iteration of a [code of conduct was developed in 2011](https://diybio.org/codes/) when there were only a handful of community laboratories (see below). It was They were a starting point, enabling each community lab or DIYbio group to adapt and evolve the codem over time.

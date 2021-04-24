@@ -1,4 +1,4 @@
-# Personal Protective Equipment (PPE)
+# 7. Personal Protective Equipment (PPE)
 
 Personal Protective Equipment (PPE) includes items such as lab coats, safety glasses, and gloves that are designed to prevent accidental exposure of the wearer to hazardous biological or chemical substances or from heat, cold, and projectiles. The main thing to remember when considering PPE is that PPE is not a substitute for other control measures such as removing the risk (e.g., not using a hazardous chemical) or introducing engineering controls (e.g., use of a fume hood). PPE has serious limitations! For example:
 

@@ -1,4 +1,4 @@
-# Chemical Safety
+# 9. Chemical Safety
 
 ## **Introduction**
 
