@@ -1,4 +1,4 @@
-# 6. Biological Risk Assessments for Community Laboratories
+# 7. Biological Risk Assessments for Community Laboratories
 
 ## **Conducting a Risk Assessment**
 

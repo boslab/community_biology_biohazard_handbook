@@ -1,4 +1,4 @@
-# Welcome
+# 1. Welcome
 
 Welcome to the Community Biology Biosafety Handbook. The handbook is an open manual that offers biosafety protocols, practices, and recommendations aimed specifically for the community biology movement.
 

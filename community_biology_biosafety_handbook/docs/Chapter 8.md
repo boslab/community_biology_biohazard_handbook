@@ -1,4 +1,4 @@
-# 8. Equipment Usage and Safety
+# 9. Equipment Usage and Safety
 
 ## General Equipment Safety
 

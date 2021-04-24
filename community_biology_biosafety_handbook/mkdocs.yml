@@ -10,23 +10,22 @@ extra_css:
   - stylesheets/extra.css
   
 nav:
-  - Welcome: index.md
-  - Chapters:
-    - Chapter 1.md
-    - Chapter 2.md
-    - Chapter 3.md
-    - Chapter 4.md
-    - Chapter 5.md
-    - Chapter 6.md
-    - Chapter 7.md
-    - Chapter 8.md
-    - Chapter 9.md
-    - Chapter 10.md
-    - Chapter 11.md
-    - Chapter 12.md
-    - Chapter 13.md
-    - Chapter 14.md
-    - Chapter 15.md
-    - Chapter 16.md
-    - Chapter 17.md
+  - index.md
+  - Chapter 1.md
+  - Chapter 2.md
+  - Chapter 3.md
+  - Chapter 4.md
+  - Chapter 5.md
+  - Chapter 6.md
+  - Chapter 7.md
+  - Chapter 8.md
+  - Chapter 9.md
+  - Chapter 10.md
+  - Chapter 11.md
+  - Chapter 12.md
+  - Chapter 13.md
+  - Chapter 14.md
+  - Chapter 15.md
+  - Chapter 16.md
+  - Chapter 17.md
 

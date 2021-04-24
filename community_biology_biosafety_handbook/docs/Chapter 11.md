@@ -1,4 +1,4 @@
-# 11. Waste Disposal
+# 12. Waste Disposal
 
 ### Why Is Waste Disposal Important?
 

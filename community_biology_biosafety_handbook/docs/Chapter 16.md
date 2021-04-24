@@ -1,4 +1,4 @@
-# 16. Biosecurity in Community Labs
+# 17. Biosecurity in Community Labs
 
 This section discusses management practices to improve biological security, or biosecurity, in community labs. The [CEN Workshop Agreement 15793](https://www.uab.cat/doc/CWA15793_2011) defines biosecurity as &quot;the protection, control and accountability of biological agents and toxins&quot; and is designed to &quot;prevent their loss, theft, misuse, diversion of, unauthorized access, or intentional unauthorized release.&quot;
 
