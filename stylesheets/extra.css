@@ -10,6 +10,16 @@
     color: rgba(0,0,0,0.54);
 }
 
-.md-search__form :hover{
+.md-search__form :hover{    
     background-color: rgba(0,0,0,0.54);
+}
+
+@media screen and (max-width: 76.1875em){
+    .md-nav--primary .md-nav__title[for="__drawer"]{
+        background-color: white;
+        color: rgba(0,0,0,0.54);
+    }
+    .md-nav__title .md-nav__button.md-logo img, .md-nav__title .md-nav__button.md-logo svg{
+        width: 10.4rem;
+    }
 }
